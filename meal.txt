@@ -1,0 +1,10 @@
+Pizza
+Burger
+Pasta
+Noodles
+Fried Rice
+Sandwich
+Salad
+Soup
+Sushi
+Steak
