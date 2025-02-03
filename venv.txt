@@ -1,0 +1,10 @@
+py -m venv namenev
+
+folder created
+
+./env/Scripts/activate
+
+Env created
+pip install ..
+pip freeze > requirements.txt
+deactivate
